@@ -36,7 +36,8 @@ public class SeleniumTestsForPractic
         var currentUrl = driver.Url;
         Assert.That(currentUrl == "https://staff-testing.testkontur.ru/news");
         
-      //добавила коммент для тестового коммита
+      //добавила коммент для тестового коммита еще раз
+      
        
         
         //закрыть браузер и убить процесс драйвера
