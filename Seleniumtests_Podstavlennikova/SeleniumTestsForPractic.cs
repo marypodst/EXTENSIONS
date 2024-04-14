@@ -30,7 +30,6 @@ public class SeleniumTestsForPractic
         //нажать кнопку Войти       
         var enter = driver.FindElement(By.Name("button"));
         enter.Click();
-        Thread.Sleep(3000);
 
         
         //проверить, что находимся на нужной странице
