@@ -25,7 +25,7 @@ public class SeleniumTestsForPractic
 
         var password = driver.FindElement(By.Name("Password"));
         password.SendKeys("YaMahaATiNet2.");
-        Thread.Sleep(3000);
+     
         
         //нажать кнопку Войти       
         var enter = driver.FindElement(By.Name("button"));
