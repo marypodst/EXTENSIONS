@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PfVvOobV4vtQh10sYnNJu3erqiauPQkWK5OiyBV8Xez5VmttzjvgV9itIsHQurECM3KkrZ7yXruRW1FFro0ODg==",
+  "dgSpecHash": "uLcmiLO1swfGUoncjh+dC5yCcssykSZSZDT/L+HhhcBj0gRxIa92bvMiUPBNXPn6SuOjIMJoLv49tS7XaEAa+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\79122\\RiderProjects\\Seleniumtests_Podstavlennikova\\Seleniumtests_Podstavlennikova\\Seleniumtests_Podstavlennikova.csproj",
+  "projectFilePath": "C:\\Users\\79122\\RiderProjects\\Seleniumtests_Podstavlennikova — for gitextensions\\Seleniumtests_Podstavlennikova\\Seleniumtests_Podstavlennikova.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\79122\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
     "C:\\Users\\79122\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
